@@ -1,4 +1,4 @@
-##Meu nome é Rafael Cristofoletti Girro
+##Meu nome é **Rafael Cristofoletti Girro**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
